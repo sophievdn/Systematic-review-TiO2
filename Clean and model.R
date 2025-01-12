@@ -140,7 +140,7 @@ results <- parLapply(myCluster,
                      samples_list,
                      post_proc, 
                      dat = df_aug,
-                     x = X_aug
+                     xx = X_aug
 )
 
 stopCluster(myCluster)
