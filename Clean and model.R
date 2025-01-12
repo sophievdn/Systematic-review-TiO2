@@ -3,6 +3,7 @@
 library(dplyr)
 library(cmdstanr)
 library(purrr)
+library(parallel)
 
 
 ## Functions
