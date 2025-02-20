@@ -1,8 +1,23 @@
-# Titanium dioxide in food and other ingested products: a systematic review
+# Titanium dioxide levels in food and other ingested products: a systematic review
 
 # Abstract
-In 2021, the European Commission decided to ban titanium dioxide as a food additive in the European Union due to concerns that it may be harmful to humans when ingested - a decision likely to be echoed in other regions and industries. While titanium dioxide is characteristically found in food, its application extends to many domains. The aim of this systematic review was to gather all available data on the concentration of titanium dioxide in products contributing to oral exposure, namely food, dietary supplements, pharmaceuticals and certain personal care products, since these are considered to be the main sources of exposure in the general population. A literature search in Web of Science, Scopus and Google yielded 55 studies, totaling 674 products found across various categories. A hierarchical Bayesian model was used to estimate the median concentration in each category of products, at four different levels of aggregation. The overall median concentration was estimated at 597 (502 - 709) mg/kg, while estimates across categories ranged between 3 (0-613) mg/kg in breakfast cereals and 2,297 (1,345 - 3,576) mg/kg in dietary supplements. For individual products, concentrations up to 51,000 mg/kg were found. These results suggest that titanium dioxide is present in many products available worldwide and in considerable concentrations. By taking into account multiple oral routes of exposure, this systematic review provides a valuable source of information for any future risk assessments of titanium dioxide. The overarching aim is to hereby obtain more informed public health policies that will protect the safety of consumers by going beyond the traditional `one exposure - one health effect' approach.
+In 2021, the European Commission decided to ban titanium dioxide as a food additive
+in the European Union due to concerns that it may be harmful to humans when
+ingested - a decision expected to be echoed in other regions and industries. The aim of
+this systematic review was to gather all available data on the concentration of titanium
+dioxide in products contributing to oral exposure of it, namely food, dietary
+supplements, pharmaceuticals and certain personal care products. A literature search
+in Web of Science, Scopus and Google yielded 55 studies, totaling 674 products
+across various categories. A hierarchical Bayesian model was used to estimate the
+median concentration in each product category, at four different levels of aggregation.
+The overall median concentration was estimated at 597 (502-709) mg/kg, while
+estimates across categories ranged between 3 (<1-613) and 2,297 (1,345-3,576)
+mg/kg. For individual products, concentrations up to 51,000 mg/kg were found. These
+results suggest that titanium dioxide is present in a lot of products available worldwide
+and in considerable concentrations. By taking into account multiple routes of exposure,
+this review provides a valuable source of information in support of more informed
+public health policies that aim to protect consumer safety.
 
 # Purpose
 
-This repository contains data and code to replicate the results.
+This repository contains the data and code required to replicate the results found in the accompanying article.
